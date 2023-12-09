@@ -2,7 +2,7 @@
 
 ## Description
 
-My motivation was to create an SVG logo utilizing different shapes. I built this project so individuals could customize shapes and graphics in an efficient manner. This problem solves saving time on creating unique images. I learned how to use logic to meet the criteria associated with creating an SVG logo. 
+My motivation was to create a text editor that runs in the browser. I built this project so  I could create an application that meets the PWA criteria. This application should be able to be used offline as well. 
 
 ## Table of Contents (Optional)
 
@@ -17,8 +17,7 @@ N/A
 
 ## Usage
 
-Link to screencastify video: https://drive.google.com/file/d/1MSpol0oF-Wn8aqH5rZztRhHfl59a-4kN/view
-
+Link to screencastify video: 
 ## Credits
 
 Isabella Vega - https://github.com/ivega16
@@ -30,13 +29,12 @@ Isabella Vega - https://github.com/ivega16
 
 ## Features
 
-Website
-![Alt text](image.png)
+![Alt text](<Screenshot 2023-12-08 at 9.00.10 PM.png>)
 
 
 ## How to Contribute
 
-Isabella Vega
+Included source code from Phil Loy's walkthrough video
 
 ## Tests
 
