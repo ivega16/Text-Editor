@@ -16,8 +16,8 @@ My motivation was to create a text editor that runs in the browser. I built this
 N/A
 
 ## Usage
+Deployed link: https://text-editoriv-edb35ada7cee.herokuapp.com
 
-Link to screencastify video: 
 ## Credits
 
 Isabella Vega - https://github.com/ivega16
