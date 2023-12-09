@@ -34,7 +34,7 @@ Isabella Vega - https://github.com/ivega16
 
 ## How to Contribute
 
-Included source code from Phil Loy's walkthrough video
+Included source code from Phil Loy's walkthrough video and help from J.K. from AskBCS
 
 ## Tests
 
